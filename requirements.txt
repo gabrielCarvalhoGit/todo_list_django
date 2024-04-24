@@ -1,4 +1,4 @@
-asgiref==3.5.0
+asgiref
 contourpy==1.2.0
 crispy-bootstrap5==2024.2
 cycler==0.10.0
