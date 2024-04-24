@@ -2,7 +2,7 @@ asgiref==3.5.0
 contourpy==1.2.0
 crispy-bootstrap5==2024.2
 cycler==0.10.0
-Django==3.2.12
+Django==4.2.12
 django-crispy-forms==1.11.2
 fabio==0.11.0
 fonttools==4.29.0
